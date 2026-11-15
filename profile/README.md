@@ -1,12 +1,11 @@
-
 <img
   align="left"
   width="55%"
-  src="https://github.com/user-attachments/assets/ef0366d8-6ee4-43e7-a631-cfa620da9100"
-  alt="Photon Browser"
+  src="https://github.com/user-attachments/assets/324d9eaa-c0aa-4100-863f-2df352c6ba0e"
+  alt="Elaris browser"
 />
 
-<h3>Photon Browser</h3>
+<h3>Elaris Browser</h3>
 
 <p>
   An open-source browser with a native interface,
