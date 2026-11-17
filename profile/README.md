@@ -26,8 +26,8 @@
 </p>
 
 <p>
-  <a href="https://github.com/sponsors/PhotonBrowser">
-    <img src="https://img.shields.io/badge/Sponsor-PhotonBrowser-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor PhotonBrowser" />
+  <a href="https://github.com/sponsors/elarisbrowser/">
+    <img src="https://img.shields.io/badge/Sponsor-ElarisBrowser-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor ElarisBrowser" />
   </a>
 </p>
 
